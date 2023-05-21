@@ -49,10 +49,15 @@
 
 ## OUTPUT
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)Smooth Rod :The smooth rods are same as those used in the z axis assembly. The bearings of the frame of heat bed on these rod. These rods provide the path for movement of the frame of the heat bed.Smooth Rod : The smooth rods are same as those used in the z axis assembly. The bearings of the frame of heat bed on these rod. These rods provide the path for movement of the frame of the heat bed.
+![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+Smooth Rod :The smooth rods are same as those used in the z axis assembly. The bearings of the frame of heat bed on these rod. These rods provide the path for movement of the frame of the heat bed.
+
 Bearing :Diameter of the bearing=8mm These bearings guide the frame of heat bed on the y-axis.
+
 Idler :Idler is used to push the filament into the teeth of the drive wheel. An idler wheel usually is a round bearing pushed by a spring or a rubber bushing.
+
 Extruder:The extruder heats the solid filament and converts it into a hot liquid paste which is extruded from the nozzle during the fabrication of each layer. The diameter of the nozzle orifice is 1.75mm.
+
 Motor:The motor is responsible for the movement of the bed support along with heat bed in the x,y,z axis.
 
 
