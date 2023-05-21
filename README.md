@@ -51,6 +51,8 @@
 
 X AXIS ASSEMBLY:
 
+![image](https://github.com/Jeevithha/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/123623197/d78d7f87-3c9d-400f-b6e4-ecbcfbc6c6ac)
+
 Smooth Rod :
 The smooth rods are same as those used in the z axis assembly. The bearings of the frame of heat bed on these rod. These rods provide the path for movement of the frame of the heat bed.
 
